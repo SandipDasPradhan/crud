@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f9fa;
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  color: #007bff;
+}
+.form-control {
+  border-radius: 0.25rem;
+}
+
+
